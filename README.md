@@ -1,2 +1,2 @@
 # Mr.H_BOMBS
-It's a magical space,welcome!
+It's a repository of magical space for Mr.H, So welcome!
